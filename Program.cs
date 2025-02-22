@@ -1,4 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Das ist ein kleines Beispiel für ein (langweiliges) Exit Game. \nIhr könnt es besser, viel Spaß! ");
+Console.WriteLine("-----------------------------------------------------------------------");
+
+
 Console.WriteLine("Geisterspiel");
 int punkte = 0;
 bool gameover = false;
